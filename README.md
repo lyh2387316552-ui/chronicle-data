@@ -6,7 +6,13 @@
 
 ```
 chronicle-data/
-├── data-sources/   # 数据源表格 (Skill/Stunt/属性表/装备表/宝石表/技能表/技能标签/魔宠表)
+├── data-sources/   # 数据源 (JSON 技能数据按文件夹; 表格文件直接平铺在根)
+│   ├── Skill/ SkillModule/ Stunt/ StuntModule/   # 游戏导出的技能 JSON
+│   ├── 属性表.xlsx   # 词缀 + 属性
+│   ├── 装备表.xlsx   # 装备
+│   ├── 技能养成相关.xlsx  # 辅助宝石 + 技能库
+│   ├── 战斗技能相关表.xlsx # 技能标签字典
+│   └── 魔宠表.xlsx   # 魔宠
 ├── icon/           # 游戏图标资源 (技能/装备/宝石/魔宠/职业天赋)
 ├── videos/         # 技能演示视频
 └── data/
@@ -15,10 +21,10 @@ chronicle-data/
 
 ## 更新流程
 
-1. 本地修改/新增资源文件(游戏导出、策划表格更新)
+1. **更新表格**:直接把新的 `.xlsx` 覆盖到 `data-sources/` 对应文件(保留同名),或运行网站仓库的 `tools/一键同步.bat` 从本地策划目录自动复制
 2. `git add -A && git commit -m "update" && git push`
-3. 网站仓库运行 `tools/一键同步.bat` 拉取最新数据并重新生成网页数据
-4. 推送网站仓库后, GitHub Pages 自动更新
+3. 网站仓库运行 `tools/一键同步.bat`(自动 pull 本仓库 → 生成网页数据 → 推送网站仓库)
+4. GitHub Pages 1~2 分钟后自动更新
 
 ## 网页资源引用
 

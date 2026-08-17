@@ -1,26 +1,28 @@
 # 📁 data-sources 数据源目录
 
-> 把对应数据文件放入下方指定文件夹/文件名即可，然后运行 `一键同步.bat`（或 `node import.js`）同步。
+> 表格文件直接平铺在本目录（不要文件夹包装），JSON 技能数据按文件夹存放。更新数据 = 覆盖对应文件后 `git push`，再运行网站侧 `一键同步.bat`。
 
 ## 数据源放置说明
 
-| 文件夹/文件 | 内容 | 支持格式 |
+| 文件/文件夹 | 内容 | 支持格式 |
 |---|---|---|
 | `Skill/` | 主动技能（战斗数据） | `Basic_Information-*.json` |
 | `SkillModule/` | 主动技能模块（伤害/冷却等） | `module-*.json` |
 | `Stunt/` | 被动技能（战斗数据） | `baseStuntInfo-*.json` |
 | `StuntModule/` | 被动技能模块 | `module-*.json` |
-| `属性表/` | 词缀 + 属性数据 | Excel(`.xlsx`/`.xls`)/CSV |
-| `装备表/` | 装备数据（LegendEquip + Modifier 子表） | Excel(`.xlsx`/`.xls`)/CSV |
-| `宝石表/` | 辅助宝石数据（SkillGem 子表） | Excel(`.xlsx`/`.xls`)/CSV |
-| `技能表/` | 技能库数据（SkillActive 子表） | Excel(`.xlsx`/`.xls`)/CSV |
-| `技能标签/` | 技能标签字典（SkillMainTag + SkillNormalTag 子表） | Excel(`.xlsx`/`.xls`)/CSV |
+| `属性表.xlsx` | 词缀 + 属性数据 | Excel/CSV |
+| `装备表.xlsx` | 装备数据（LegendEquip + Modifier 子表） | Excel/CSV |
+| `技能养成相关.xlsx` | 辅助宝石 + 技能库（SkillGem / SkillActive 子表） | Excel/CSV |
+| `战斗技能相关表.xlsx` | 技能标签字典（SkillMainTag + SkillNormalTag 子表） | Excel/CSV |
+| `魔宠表.xlsx` | 魔宠数据（Pet / PetStar 子表） | Excel/CSV |
 
-## 使用步骤
+> 说明：`技能养成相关.xlsx` 同时供给辅助宝石和技能库两类数据；`属性表.xlsx` 同时供给词缀和属性两类数据。
 
-1. 将对应文件放入上述文件夹（支持子目录递归扫描）
-2. 运行同步：`一键同步.bat`
-3. 打开 `index.html` 查看数据
+## 使用步骤（更新数据）
+
+1. 把新的表格文件**直接覆盖**到对应位置（保留同名文件名）
+2. `git add -A && git commit -m "update tables" && git push`
+3. 在网站仓库双击 `tools\一键同步.bat`：自动 pull 本仓库 → 生成网页数据 → 推送网站仓库 → 线上自动更新
 
 ## Excel 子表自动查找规则
 
@@ -34,19 +36,8 @@
 | 技能库 | `SkillActive` / `技能` | skill / stunt → 映射战斗数据中的技能ID，读取效果描述与标签（mainTag / normalTag） |
 | 技能标签 | `SkillMainTag` / `主标签` + `SkillNormalTag` / `常规标签` | 标签ID → 标签文本（如 1=攻击、2=法术；1=近战、3=火焰） |
 
-## 技能标签说明
-
-- 技能库中每个技能的 `mainTag` / `normalTag` 从战斗数据（`Skill/`、`Stunt/` 文件夹 JSON 中的 `mainTag`、`normalTag` 字段）提取
-- 数字标签通过"技能标签"文件夹 Excel 的 `SkillMainTag` / `SkillNormalTag` 子表映射为文本（如 `mainTag=1` → 攻击，`normalTag=[3,4]` → 火焰、冰霜）
-
 ## 词缀 / 属性表说明
 
-- 词缀与属性均来自"属性表"文件夹
-- 系统会自动查找子表名包含"Modifier / Affix / 词缀"的工作表文件作为词缀数据（如 `ModifierDes`）
-- 系统会自动查找含 `attrID / name / desc` 列的工作表文件作为属性数据（如 `AttributeName`）
-- 如果只有一个文件，直接放入即可
-
-## 路径约定
-
-- 以上路径均为相对路径，指向本项目 `data-sources` 目录
-- 如需改为其他位置，可编辑 `import-config.json`（支持绝对路径）
+- 系统自动查找 `属性表.xlsx` 中名字包含 "Modifier / Affix / 词缀" 的工作表作为词缀数据
+- 含 `attrID / name / desc` 列的工作表作为属性数据
+- 路径约定：以上相对路径均相对本仓库；网站仓库的 `tools/import-config.json` 指向本目录
