@@ -1,0 +1,12 @@
+{
+  "__active": true,
+  "level": 1,
+  "group": 0,
+  "name": "周围有精英敌人时提升施法速度",
+  "text": "周围有精英敌人时提升施法速度",
+  "skillIcon": "",
+  "bundlingStunts": [],
+  "mainTag": 2,
+  "normalTag": [],
+  "skillLevelAdd": 0
+}

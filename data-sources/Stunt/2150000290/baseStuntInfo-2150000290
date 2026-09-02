@@ -1,0 +1,11 @@
+{
+  "__active": true,
+  "level": 1,
+  "group": 0,
+  "name": "天赋-元素抗性相等时额外减少伤害",
+  "text": "当有两两元素抗性相等时，获得额外受到伤害减少 10%（加算）",
+  "skillIcon": "",
+  "bundlingStunts": [],
+  "normalTag": [],
+  "skillLevelAdd": 0
+}

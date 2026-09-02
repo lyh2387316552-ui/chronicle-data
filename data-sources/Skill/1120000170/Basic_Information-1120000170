@@ -1,0 +1,21 @@
+{
+  "__active": true,
+  "name": "火焰龙卷",
+  "priority": 1,
+  "mainTag": 2,
+  "remarks": "",
+  "skillTime": 1083,
+  "desc": "召唤一道可以跟随自身移动的火焰龙卷，对经过的敌人造成xx火焰伤害。\n火焰龙卷的数量无法被修改",
+  "detailedDesc": "",
+  "skillIcon": "linshi/26",
+  "normalTag": [
+    0,
+    3,
+    7,
+    8,
+    19
+  ],
+  "attackSpeed": 1,
+  "moreDamage": [],
+  "skillLevelAdd": 0
+}

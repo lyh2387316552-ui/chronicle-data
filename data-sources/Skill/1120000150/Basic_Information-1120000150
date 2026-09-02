@@ -1,0 +1,21 @@
+{
+  "__active": true,
+  "name": "附身电球",
+  "priority": 2,
+  "mainTag": 2,
+  "remarks": "",
+  "skillTime": 849,
+  "desc": "召唤4个围绕自身盘旋的电球，电球在碰到敌人后会附着在敌人身上，每隔1.5秒对周围生成一次100%法术闪电伤害的电弧，每个电球可以生成3次电弧。。",
+  "detailedDesc": "",
+  "skillIcon": "linshi/14",
+  "normalTag": [
+    1,
+    5,
+    7,
+    8,
+    16
+  ],
+  "attackSpeed": 1,
+  "moreDamage": [],
+  "skillLevelAdd": 0
+}

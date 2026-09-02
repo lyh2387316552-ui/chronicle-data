@@ -1,0 +1,16 @@
+{
+  "__active": true,
+  "level": 1,
+  "group": 0,
+  "name": "天赋-5捷额外伤-物理",
+  "text": "装备物理捷，获得额外物理伤害",
+  "skillIcon": "",
+  "bundlingStunts": [
+    2150000151,
+    2150000152,
+    2150000153,
+    2150000154
+  ],
+  "normalTag": [],
+  "skillLevelAdd": 0
+}

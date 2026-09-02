@@ -9,9 +9,11 @@
   "detailedDesc": "",
   "skillIcon": "",
   "normalTag": [
+    2,
     4,
     7
   ],
   "attackSpeed": 0,
-  "moreDamage": []
+  "moreDamage": [],
+  "skillLevelAdd": 0
 }

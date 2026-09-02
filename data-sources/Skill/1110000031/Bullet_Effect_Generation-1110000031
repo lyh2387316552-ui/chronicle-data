@@ -10,18 +10,27 @@
     0
   ],
   "ammoAngle": [
-    360
+    0
   ],
   "ammoRandom": [
     0
   ],
   "ammoCount": [
-    3
+    1
   ],
   "ammoTrajectory": [
     0
   ],
   "ammoInterval": [
+    100
+  ],
+  "ammoBatch": [
+    0
+  ],
+  "ammoBatchInterval": [
+    0
+  ],
+  "pluralHitTime": [
     0
   ]
 }

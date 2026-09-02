@@ -6,6 +6,7 @@
   "text": "占位技能",
   "skillIcon": "",
   "bundlingStunts": [],
+  "mainTag": 2,
   "normalTag": [],
   "skillLevelAdd": 0
 }

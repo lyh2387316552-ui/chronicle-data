@@ -2,7 +2,9 @@
   "__active": true,
   "sourceBuff": [],
   "deleteSourceBuff": 1,
-  "wearBuff": [],
+  "wearBuff": [
+    2122100080
+  ],
   "targetBuff": [],
   "hitEffect": "",
   "skillId": [],
@@ -24,5 +26,6 @@
   "spreadEffect": [
     100006,
     500
-  ]
+  ],
+  "buffWeight": []
 }

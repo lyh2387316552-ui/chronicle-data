@@ -1,0 +1,10 @@
+{
+  "__active": true,
+  "triggerMode": "10",
+  "triggerValue": [],
+  "triggerValue2": [],
+  "skillAttackMode": [],
+  "gettriggerTargetCon": "bullet.config.ammoMainTag.includes(1)",
+  "gettriggeChance": "0.05",
+  "triggerFilterType": 0
+}

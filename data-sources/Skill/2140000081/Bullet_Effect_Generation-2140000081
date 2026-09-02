@@ -4,7 +4,7 @@
     2141000081
   ],
   "ammoTime": [
-    0
+    288
   ],
   "ammoPosition": [
     3
@@ -22,6 +22,15 @@
     0
   ],
   "ammoInterval": [
+    0
+  ],
+  "ammoBatch": [
+    0
+  ],
+  "ammoBatchInterval": [
+    0
+  ],
+  "pluralHitTime": [
     0
   ]
 }

@@ -1,0 +1,11 @@
+{
+  "__active": true,
+  "level": 1,
+  "group": 2150000340,
+  "name": "天赋-移动获得增益",
+  "text": "移动20米近战伤害额外提高 50%",
+  "skillIcon": "",
+  "bundlingStunts": [],
+  "normalTag": [],
+  "skillLevelAdd": 0
+}

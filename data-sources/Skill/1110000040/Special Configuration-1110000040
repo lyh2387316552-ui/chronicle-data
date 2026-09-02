@@ -1,6 +1,5 @@
 {
-  "__active": false,
-  "repeatAmmo": 0,
+  "__delete": true,
   "assistStunt": [],
-  "mentStateChance": 0
+  "skillOverlapAvoid": []
 }

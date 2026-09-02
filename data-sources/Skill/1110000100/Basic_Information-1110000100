@@ -1,0 +1,15 @@
+{
+  "__active": true,
+  "name": "太刀-混沌（cd）",
+  "priority": 1,
+  "mainTag": 1,
+  "remarks": "",
+  "skillTime": 2397,
+  "desc": "",
+  "detailedDesc": "",
+  "skillIcon": "",
+  "normalTag": [],
+  "attackSpeed": 1,
+  "moreDamage": [],
+  "skillLevelAdd": 0
+}

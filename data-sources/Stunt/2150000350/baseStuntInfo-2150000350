@@ -1,0 +1,11 @@
+{
+  "__active": true,
+  "level": 1,
+  "group": 0,
+  "name": "暴击时伤害额外提高，暴击率降低",
+  "text": "暴击时，获得增益，伤害额外提高 7%，但暴击率降低 25%，层数上限 5 层",
+  "skillIcon": "",
+  "bundlingStunts": [],
+  "normalTag": [],
+  "skillLevelAdd": 0
+}

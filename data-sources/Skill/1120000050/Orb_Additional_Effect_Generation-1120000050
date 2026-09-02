@@ -1,9 +1,21 @@
 {
   "__active": true,
-  "extraTpye": [],
-  "extraConsume": [],
-  "extraEffect": [],
-  "extraTime": [],
-  "extraConsumeBuff": [],
-  "extraGroupID": []
+  "extraTpye": [
+    0
+  ],
+  "extraConsume": [
+    "0"
+  ],
+  "extraEffect": [
+    10146
+  ],
+  "extraTime": [
+    "1"
+  ],
+  "extraConsumeBuff": [
+    0
+  ],
+  "extraGroupID": [
+    0
+  ]
 }

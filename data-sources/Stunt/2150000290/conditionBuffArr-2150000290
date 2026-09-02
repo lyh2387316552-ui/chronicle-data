@@ -1,0 +1,13 @@
+{
+  "__active": true,
+  "conditionBuffArr": [
+    "(a.getAttriAllV('fireDamageRed')==a.getAttriAllV('iceDamageRed'))?2152100290:0",
+    "(a.getAttriAllV('fireDamageRed')==a.getAttriAllV('thunderDamageRed'))?2152100290:0",
+    "(a.getAttriAllV('thunderDamageRed')==a.getAttriAllV('iceDamageRed'))?2152100290:0"
+  ],
+  "conditionObjectArr": [
+    0,
+    0,
+    0
+  ]
+}

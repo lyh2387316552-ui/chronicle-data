@@ -1,0 +1,14 @@
+{
+  "__active": true,
+  "name": "天赋-周围敌人获得受伤缓冲",
+  "priority": 1,
+  "remarks": "",
+  "skillTime": 0,
+  "desc": "",
+  "detailedDesc": "",
+  "skillIcon": "",
+  "normalTag": [],
+  "attackSpeed": 0,
+  "moreDamage": [],
+  "skillLevelAdd": 0
+}

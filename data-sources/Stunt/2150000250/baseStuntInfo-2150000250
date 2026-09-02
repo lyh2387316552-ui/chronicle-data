@@ -1,0 +1,11 @@
+{
+  "__active": true,
+  "level": 1,
+  "group": 2150000250,
+  "name": "天赋大点-法杖",
+  "text": "使用法杖作为武器时，获得 30% 的额外元素伤害，只能造成元素伤害",
+  "skillIcon": "",
+  "bundlingStunts": [],
+  "normalTag": [],
+  "skillLevelAdd": 0
+}

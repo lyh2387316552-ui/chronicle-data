@@ -1,0 +1,12 @@
+{
+  "__active": true,
+  "level": 1,
+  "group": 0,
+  "name": "造成感电时获得迅捷注能",
+  "text": "造成感电效果时，有 20% 几率获得速度注能",
+  "skillIcon": "",
+  "bundlingStunts": [],
+  "mainTag": 1,
+  "normalTag": [],
+  "skillLevelAdd": 0
+}

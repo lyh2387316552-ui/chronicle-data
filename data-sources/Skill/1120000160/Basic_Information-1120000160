@@ -1,0 +1,15 @@
+{
+  "__active": true,
+  "name": "天赋-偶尔漏电",
+  "priority": 1,
+  "mainTag": 2,
+  "remarks": "",
+  "skillTime": 0,
+  "desc": "",
+  "detailedDesc": "击中时，20%几率触发电圈",
+  "skillIcon": "",
+  "normalTag": [],
+  "attackSpeed": 1,
+  "moreDamage": [],
+  "skillLevelAdd": 0
+}

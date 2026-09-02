@@ -1,3 +1,14 @@
 {
-  "__active": false
+  "__active": false,
+  "ammoId": [],
+  "ammoTime": [],
+  "ammoPosition": [],
+  "ammoAngle": [],
+  "ammoRandom": [],
+  "ammoCount": [],
+  "ammoTrajectory": [],
+  "ammoInterval": [],
+  "ammoBatch": [],
+  "ammoBatchInterval": [],
+  "pluralHitTime": []
 }

@@ -1,0 +1,11 @@
+{
+  "__active": true,
+  "level": 1,
+  "group": 0,
+  "name": "击败时移动速度提高",
+  "text": "击败时移动速度提高1%，最大上限20层",
+  "skillIcon": "",
+  "bundlingStunts": [],
+  "normalTag": [],
+  "skillLevelAdd": 0
+}

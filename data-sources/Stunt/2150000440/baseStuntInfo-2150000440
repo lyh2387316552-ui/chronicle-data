@@ -1,0 +1,12 @@
+{
+  "__active": true,
+  "level": 1,
+  "group": 0,
+  "name": "偶尔漏电",
+  "text": "攻击伤害击中时，有10%的几率触发10级[电圈]",
+  "skillIcon": "",
+  "bundlingStunts": [],
+  "mainTag": 1,
+  "normalTag": [],
+  "skillLevelAdd": 9
+}

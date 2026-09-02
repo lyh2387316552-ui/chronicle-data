@@ -1,0 +1,11 @@
+{
+  "__active": true,
+  "level": 1,
+  "group": 0,
+  "name": "天赋-抗性区核心2",
+  "text": "造成一种元素伤害会使得，其他元素伤害获得15%额外伤害(加算），持续4秒",
+  "skillIcon": "",
+  "bundlingStunts": [],
+  "normalTag": [],
+  "skillLevelAdd": 0
+}

@@ -1,0 +1,7 @@
+{
+  "__active": true,
+  "conditionBuff": "a.getEliteEnemyNum(300)>0?2152000360:0",
+  "conditionTime": 0,
+  "conditionObject": 0,
+  "buffAttribute": 0
+}

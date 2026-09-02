@@ -1,0 +1,12 @@
+{
+  "__active": true,
+  "level": 1,
+  "group": 0,
+  "name": "鲜血之捷",
+  "text": "激活时，击败流血的敌人会将其流血效果扩散给周围的其他敌人",
+  "skillIcon": "",
+  "bundlingStunts": [],
+  "mainTag": 2,
+  "normalTag": [],
+  "skillLevelAdd": 0
+}

@@ -1,0 +1,12 @@
+{
+  "__active": true,
+  "level": 1,
+  "group": 0,
+  "name": "攻击暴击时概率瘫痪",
+  "text": "攻击暴击时概率瘫痪",
+  "skillIcon": "",
+  "bundlingStunts": [],
+  "mainTag": 1,
+  "normalTag": [],
+  "skillLevelAdd": 0
+}

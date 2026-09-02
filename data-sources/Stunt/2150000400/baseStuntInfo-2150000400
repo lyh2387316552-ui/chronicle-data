@@ -1,0 +1,12 @@
+{
+  "__active": true,
+  "level": 1,
+  "group": 0,
+  "name": "造成异常状态提高攻速",
+  "text": "天赋-你在近期每对一名敌人造成点燃、中毒、流血，就可以获得2%的攻击速度，最多40%",
+  "skillIcon": "",
+  "bundlingStunts": [],
+  "mainTag": 1,
+  "normalTag": [],
+  "skillLevelAdd": 0
+}

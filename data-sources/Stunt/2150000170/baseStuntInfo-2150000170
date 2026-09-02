@@ -1,0 +1,12 @@
+{
+  "__active": true,
+  "level": 1,
+  "group": 0,
+  "name": "造成流血时获得毁灭注能",
+  "text": "造成流血时获得毁灭注能",
+  "skillIcon": "",
+  "bundlingStunts": [],
+  "mainTag": 1,
+  "normalTag": [],
+  "skillLevelAdd": 0
+}

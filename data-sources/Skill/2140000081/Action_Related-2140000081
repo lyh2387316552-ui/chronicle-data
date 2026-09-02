@@ -1,8 +1,8 @@
 {
-  "__active": false,
-  "isHitAndRun": 0,
-  "action1Time": 0,
-  "resourceName": "",
+  "__active": true,
+  "isHitAndRun": 1,
+  "action1Time": 800,
+  "resourceName": "effect2_4_1",
   "hasEffect": 0,
   "effectName": "",
   "effectzOrderType": 0,

@@ -5,7 +5,12 @@
   "name": "注能循环-毁灭",
   "text": "每获得一层注能时，可以额外获得一层注能",
   "skillIcon": "",
-  "bundlingStunts": [],
+  "bundlingStunts": [
+    2150100060,
+    2150200060,
+    2150300060,
+    2150400060
+  ],
   "mainTag": 4,
   "normalTag": [],
   "skillLevelAdd": 0

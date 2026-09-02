@@ -1,0 +1,11 @@
+{
+  "__active": true,
+  "level": 1,
+  "group": 2150000420,
+  "name": "天赋-手套增加攻击力",
+  "text": "未装备手套时，可获得相当于当前防御力30%的攻击力",
+  "skillIcon": "",
+  "bundlingStunts": [],
+  "normalTag": [],
+  "skillLevelAdd": 0
+}

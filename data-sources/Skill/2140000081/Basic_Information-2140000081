@@ -4,7 +4,7 @@
   "priority": 1,
   "mainTag": 2,
   "remarks": "",
-  "skillTime": 0,
+  "skillTime": 800,
   "desc": "每隔3秒会发出一道元素脉冲，降低范围内所有敌人30%的元素抗性。",
   "detailedDesc": "",
   "skillIcon": "",
@@ -13,5 +13,6 @@
     8
   ],
   "attackSpeed": 0,
-  "moreDamage": []
+  "moreDamage": [],
+  "skillLevelAdd": 0
 }

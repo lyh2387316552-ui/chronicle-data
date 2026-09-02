@@ -14,5 +14,10 @@
   "buffLayer": [
     1
   ],
-  "skillCurrentCooldownChange": []
+  "skillCurrentCooldownChange": [],
+  "spreadAilment": [],
+  "spreadRadius": [],
+  "spreadTarget": 0,
+  "spreadEffect": [],
+  "buffWeight": []
 }

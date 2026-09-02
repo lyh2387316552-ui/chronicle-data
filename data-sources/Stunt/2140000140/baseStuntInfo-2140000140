@@ -7,5 +7,6 @@
   "skillIcon": "gonghuizhan/2",
   "bundlingStunts": [],
   "mainTag": 2,
-  "normalTag": []
+  "normalTag": [],
+  "skillLevelAdd": 0
 }

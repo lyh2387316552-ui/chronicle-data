@@ -1,0 +1,7 @@
+{
+  "__active": true,
+  "conditionBuff": "a.hasSkill2(2110000010) ? 2152100153 : 0",
+  "conditionTime": 0,
+  "conditionObject": 0,
+  "buffAttribute": 0
+}

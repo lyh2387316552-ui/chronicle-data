@@ -2,5 +2,8 @@
   "__active": true,
   "repeatAmmo": 0,
   "assistStunt": [],
-  "mentStateChance": 0
+  "mentStateChance": 0,
+  "skillOverlapAvoid": [
+    1121000050
+  ]
 }

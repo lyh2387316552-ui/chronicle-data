@@ -4,5 +4,6 @@
   "assistStunt": [
     2110000040
   ],
-  "mentStateChance": 0
+  "mentStateChance": 0,
+  "skillOverlapAvoid": []
 }

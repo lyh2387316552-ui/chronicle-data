@@ -4,7 +4,7 @@
   "priority": 5,
   "mainTag": 2,
   "remarks": "",
-  "skillTime": 683,
+  "skillTime": 684,
   "desc": "",
   "detailedDesc": "",
   "skillIcon": "",
@@ -12,5 +12,6 @@
     14
   ],
   "attackSpeed": 1,
-  "moreDamage": []
+  "moreDamage": [],
+  "skillLevelAdd": 0
 }

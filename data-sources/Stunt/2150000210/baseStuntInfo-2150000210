@@ -1,0 +1,12 @@
+{
+  "__active": true,
+  "level": 1,
+  "group": 0,
+  "name": "法术暴击时概率软弱",
+  "text": "法术暴击时概率软弱",
+  "skillIcon": "",
+  "bundlingStunts": [],
+  "mainTag": 2,
+  "normalTag": [],
+  "skillLevelAdd": 0
+}

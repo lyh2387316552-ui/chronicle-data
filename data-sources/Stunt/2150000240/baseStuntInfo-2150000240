@@ -1,0 +1,11 @@
+{
+  "__active": true,
+  "level": 1,
+  "group": 2150000240,
+  "name": "天赋大点-太刀",
+  "text": "使用太刀作为武器时，击败敌人获得随机 0.1 伤害倍率，上限 100 层，持续时间 5 秒",
+  "skillIcon": "",
+  "bundlingStunts": [],
+  "normalTag": [],
+  "skillLevelAdd": 0
+}

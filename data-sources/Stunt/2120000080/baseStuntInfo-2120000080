@@ -2,9 +2,11 @@
   "__active": true,
   "level": 1,
   "group": 0,
-  "name": "中毒传染",
-  "text": "激活时，击败中毒的敌人会将其中毒效果扩散给周围的其他敌人，并有几率使他们缓速",
+  "name": "瘟疫之捷",
+  "text": "激活时，击败中毒的敌人会将其中毒效果扩散给周围的其他敌人",
   "skillIcon": "",
   "bundlingStunts": [],
-  "normalTag": []
+  "mainTag": 2,
+  "normalTag": [],
+  "skillLevelAdd": 0
 }

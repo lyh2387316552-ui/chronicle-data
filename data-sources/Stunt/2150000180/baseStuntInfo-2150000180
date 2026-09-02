@@ -1,0 +1,12 @@
+{
+  "__active": true,
+  "level": 1,
+  "group": 0,
+  "name": "造成冰冻时获得洞察注能",
+  "text": "造成冰冻效果时，有 20% 概率获得暴击注能",
+  "skillIcon": "",
+  "bundlingStunts": [],
+  "mainTag": 1,
+  "normalTag": [],
+  "skillLevelAdd": 0
+}

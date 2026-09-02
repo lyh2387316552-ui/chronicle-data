@@ -1,0 +1,10 @@
+{
+  "__active": true,
+  "triggerMode": "57",
+  "triggerValue": [],
+  "triggerValue2": [],
+  "skillAttackMode": [],
+  "gettriggerTargetCon": "bullet.bulletId==1121100100&&!!target.ganDianTimerId",
+  "gettriggeChance": "1",
+  "triggerFilterType": 0
+}

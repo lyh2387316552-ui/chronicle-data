@@ -1,0 +1,11 @@
+{
+  "__active": true,
+  "level": 1,
+  "group": 2150000260,
+  "name": "天赋大点-魔典",
+  "text": "使用魔典时，核心技能等级 +5，魔力消耗增加 20%",
+  "skillIcon": "",
+  "bundlingStunts": [],
+  "normalTag": [],
+  "skillLevelAdd": 0
+}
