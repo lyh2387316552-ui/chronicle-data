@@ -13,7 +13,7 @@ chronicle-data/
 │   ├── 技能养成相关.xlsx  # 辅助宝石 + 技能库
 │   ├── 战斗技能相关表.xlsx # 技能标签字典
 │   └── 魔宠表.xlsx   # 魔宠
-├── icon/           # 游戏图标资源 (技能/装备/宝石/魔宠/职业天赋)
+├── icon/           # 游戏图标资源 (技能/装备/宝石/魔宠/职业天赋，统一 WebP)
 ├── videos/         # 技能演示视频
 └── data/
     └── tables.json # 自定义数据表 (如技能养成表, 网页"数据表"页自动展示)
@@ -23,7 +23,7 @@ chronicle-data/
 
 1. **更新表格**:直接把新的 `.xlsx` 覆盖到 `data-sources/` 对应文件(保留同名),或运行网站仓库的 `tools/一键同步.bat` 从本地策划目录自动复制
 2. `git add -A && git commit -m "update" && git push`
-3. 网站仓库运行 `tools/一键同步.bat`(自动 pull 本仓库 → 生成网页数据 → 推送网站仓库)
+3. 网站仓库运行 `tools/一键同步.bat`（自动 pull 本仓库 → 转换图片为 WebP → 生成网页数据 → 推送网站仓库）
 4. GitHub Pages 1~2 分钟后自动更新
 
 ## 网页资源引用
@@ -33,3 +33,7 @@ chronicle-data/
 - 图标: `https://lyh2387316552-ui.github.io/chronicle-data/icon/...`
 - 视频: `https://lyh2387316552-ui.github.io/chronicle-data/videos/...`
 - 数据表: `https://lyh2387316552-ui.github.io/chronicle-data/data/tables.json`
+
+## 图片格式
+
+`icon/` 中的图片统一保存为 `.webp`。新增图片可以先以 PNG/JPG 放入资源目录，网站仓库的 `tools/一键同步.bat` 会自动调用 `tools/convert-images.js` 转换并清理原格式文件。
