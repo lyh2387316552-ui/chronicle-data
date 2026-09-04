@@ -1,27 +1,35 @@
 {
   "__active": true,
   "buffTime": [
+    0,
     0
   ],
   "targetBuff": [
+    0,
     0
   ],
   "targetBuffWeight": [
+    "1",
     "1"
   ],
   "hitSourceBuff": [
+    0,
     0
   ],
   "hitBuffNum": [
+    0,
     0
   ],
   "sourceBuff": [
-    1122000010
+    1122000010,
+    1122200010
   ],
   "buffLayer": [
-    2
+    2,
+    1
   ],
   "targetSkillBuff": [
+    0,
     0
   ]
 }
