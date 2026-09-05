@@ -13,5 +13,11 @@
   "spawnBullet": [],
   "buffLayer": [
     1
-  ]
+  ],
+  "skillCurrentCooldownChange": [],
+  "spreadAilment": [],
+  "spreadRadius": [],
+  "spreadTarget": 0,
+  "spreadEffect": [],
+  "buffWeight": []
 }
