@@ -22,11 +22,11 @@
     10113
   ],
   "extraTime": [
-    "val",
-    "val",
-    "val",
-    "val",
-    "val"
+    "val/2",
+    "val/2",
+    "val/2",
+    "val/2",
+    "val/2"
   ],
   "extraConsumeBuff": [
     200000,
@@ -41,5 +41,12 @@
     1,
     1,
     1
+  ],
+  "extraEffectCD": [
+    6000,
+    0,
+    0,
+    0,
+    0
   ]
 }

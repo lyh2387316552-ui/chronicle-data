@@ -4,7 +4,7 @@
   "priority": 1,
   "mainTag": 1,
   "remarks": "",
-  "skillTime": 523,
+  "skillTime": 616,
   "desc": "无法造成冰冻。\n对前方小范围的敌人快速造成两次攻击伤害。\n攻击冻结敌人时会出现月光残影，对范围内敌人造成伤害。",
   "detailedDesc": "",
   "skillIcon": "jianke/2",
@@ -15,7 +15,7 @@
     7,
     10
   ],
-  "attackSpeed": 1,
+  "attackSpeed": 1.015,
   "moreDamage": [],
   "skillLevelAdd": 0
 }

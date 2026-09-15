@@ -11,7 +11,7 @@
   "normalTag": [
     14
   ],
-  "attackSpeed": 1,
+  "attackSpeed": 0.684,
   "moreDamage": [],
   "skillLevelAdd": 0
 }

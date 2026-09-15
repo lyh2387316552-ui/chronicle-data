@@ -23,5 +23,9 @@
   "extraGroupID": [
     0,
     0
+  ],
+  "extraEffectCD": [
+    0,
+    0
   ]
 }

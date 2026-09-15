@@ -7,5 +7,6 @@
   "skillIcon": "",
   "bundlingStunts": [],
   "mainTag": 2,
-  "normalTag": []
+  "normalTag": [],
+  "skillLevelAdd": 0
 }

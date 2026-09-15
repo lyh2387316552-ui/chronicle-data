@@ -17,5 +17,7 @@
   "skillCurrentCooldownChange": [],
   "spreadAilment": [],
   "spreadRadius": [],
-  "spreadTarget": 0
+  "spreadTarget": 0,
+  "spreadEffect": [],
+  "buffWeight": []
 }

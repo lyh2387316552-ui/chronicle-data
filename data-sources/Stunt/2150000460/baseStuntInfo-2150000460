@@ -1,0 +1,12 @@
+{
+  "__active": true,
+  "level": 1,
+  "group": 0,
+  "name": "天赋-冷场",
+  "text": "周围敌人的冰冷抗性-20%，周围敌人减速20%",
+  "skillIcon": "",
+  "bundlingStunts": [],
+  "mainTag": 2,
+  "normalTag": [],
+  "skillLevelAdd": 0
+}
