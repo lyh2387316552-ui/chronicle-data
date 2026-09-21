@@ -1,10 +1,10 @@
 {
   "__active": true,
-  "name": "太刀-混沌（cd）",
+  "name": "混沌剑阵",
   "priority": 1,
   "mainTag": 1,
   "remarks": "",
-  "skillTime": 2397,
+  "skillTime": 2048,
   "desc": "",
   "detailedDesc": "",
   "skillIcon": "",

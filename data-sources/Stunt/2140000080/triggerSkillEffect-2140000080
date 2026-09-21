@@ -8,9 +8,7 @@
   "skillId": [
     2140000081
   ],
-  "skillIdP": [
-    1
-  ],
+  "skillIdP": [],
   "wearSkill": [],
   "spawnBullet": [],
   "buffLayer": [],

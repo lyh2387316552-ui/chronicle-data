@@ -7,5 +7,6 @@
   "skillIcon": "linshi/16",
   "bundlingStunts": [],
   "mainTag": 4,
-  "normalTag": []
+  "normalTag": [],
+  "skillLevelAdd": 0
 }

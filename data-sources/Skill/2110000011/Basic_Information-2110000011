@@ -10,5 +10,6 @@
   "skillIcon": "gongji/shandianzhijie",
   "normalTag": [],
   "attackSpeed": 0,
-  "moreDamage": []
+  "moreDamage": [],
+  "skillLevelAdd": 0
 }

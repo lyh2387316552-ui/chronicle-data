@@ -6,5 +6,6 @@
   "text": "衣服暗金词缀：当生命大于2000时，中毒伤害提高50%-100%",
   "skillIcon": "",
   "bundlingStunts": [],
-  "normalTag": []
+  "normalTag": [],
+  "skillLevelAdd": 0
 }

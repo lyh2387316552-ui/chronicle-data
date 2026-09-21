@@ -8,11 +8,11 @@
     3
   ],
   "extraConsume": [
-    "-1",
-    "-1",
-    "-1",
-    "-1",
-    "-1"
+    "2 * Math.floor(a.ruinImbue / 2)",
+    "2 * Math.floor(a.insightImbue/ 2)",
+    "2 * Math.floor(a.pierceImbue/ 2)",
+    "2 * Math.floor(a.chaosImbue/ 2)",
+    "2 * Math.floor(a.swiftImbue/ 2)"
   ],
   "extraEffect": [
     10113,
@@ -43,8 +43,8 @@
     1
   ],
   "extraEffectCD": [
-    6000,
     0,
+    6000,
     0,
     0,
     0

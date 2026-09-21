@@ -1,0 +1,14 @@
+{
+  "__active": true,
+  "name": "元素脉冲-火",
+  "priority": 1,
+  "remarks": "",
+  "skillTime": 0,
+  "desc": "",
+  "detailedDesc": "",
+  "skillIcon": "",
+  "normalTag": [],
+  "attackSpeed": 0,
+  "moreDamage": [],
+  "skillLevelAdd": 0
+}

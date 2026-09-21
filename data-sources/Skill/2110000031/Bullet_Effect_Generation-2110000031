@@ -31,5 +31,17 @@
   "ammoInterval": [
     0,
     0
+  ],
+  "ammoBatch": [
+    0,
+    0
+  ],
+  "ammoBatchInterval": [
+    0,
+    0
+  ],
+  "pluralHitTime": [
+    0,
+    0
   ]
 }

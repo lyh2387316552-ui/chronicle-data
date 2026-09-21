@@ -1,10 +1,10 @@
 {
   "__active": true,
   "isHitAndRun": 1,
-  "action1Time": 500,
-  "resourceName": "attack1",
-  "hasEffect": 0,
-  "effectName": "",
+  "action1Time": 600,
+  "resourceName": "energy",
+  "hasEffect": 1,
+  "effectName": "zuzhou_huoyan",
   "effectzOrderType": 0,
   "effectsDelayTime": 0,
   "effectsRange": 1,
@@ -28,5 +28,9 @@
   "effect4Name": "",
   "effect4zOrderType": 0,
   "effects4DelayTime": 0,
-  "effects4Range": 1
+  "effects4Range": 1,
+  "effect1Label": "appear",
+  "effect2Label": "",
+  "effect3Label": "",
+  "effect4Label": ""
 }

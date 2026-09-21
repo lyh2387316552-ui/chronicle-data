@@ -12,5 +12,6 @@
     0
   ],
   "attackSpeed": 1,
-  "moreDamage": []
+  "moreDamage": [],
+  "skillLevelAdd": 0
 }

@@ -3,7 +3,7 @@
   "phantomCount": 1,
   "phantomPosition": 0,
   "phantomLimit": 1,
-  "phantomDamageModifier": 1,
+  "phantomDamageModifier": 0.4,
   "phantomCastSpeedModifier": 1,
   "phantomCooldown": 1,
   "phantomDuration": 4000,

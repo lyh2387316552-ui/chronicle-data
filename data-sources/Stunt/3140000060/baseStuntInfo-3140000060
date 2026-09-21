@@ -1,0 +1,11 @@
+{
+  "__active": true,
+  "level": 1,
+  "group": 2140000030,
+  "name": "辅助宝石-炽烈",
+  "text": "被辅助技能暴击敌人时，获得15%的额外冰冷伤害，持续6秒",
+  "skillIcon": "",
+  "bundlingStunts": [],
+  "normalTag": [],
+  "skillLevelAdd": 0
+}

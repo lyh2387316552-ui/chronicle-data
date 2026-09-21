@@ -1,0 +1,10 @@
+{
+  "__active": true,
+  "triggerMode": "1",
+  "triggerValue": [],
+  "triggerValue2": [],
+  "skillAttackMode": [],
+  "gettriggerTargetCon": "(!bullet||(bullet.bulletId!=2141000191&&bullet.bulletId!=2141000192&&bullet.bulletId!=2141000193&&shootC.ammoMainTag==1))",
+  "gettriggeChance": "1",
+  "triggerFilterType": 0
+}
