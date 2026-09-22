@@ -1,10 +1,9 @@
 {
   "__active": true,
-  "triggerMode": "1",
+  "triggerMode": "10",
   "triggerValue": [],
   "triggerValue2": [],
   "skillAttackMode": [],
-  "gettriggerTargetCon": "shootC.mainTag==1",
-  "gettriggeChance": "0.1",
+  "gettriggeChance": "1",
   "triggerFilterType": 0
 }

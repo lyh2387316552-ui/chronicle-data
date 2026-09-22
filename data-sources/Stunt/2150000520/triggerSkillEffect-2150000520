@@ -1,13 +1,13 @@
 {
   "__active": true,
-  "sourceBuff": [],
+  "sourceBuff": [
+    2152000520
+  ],
   "deleteSourceBuff": 1,
   "wearBuff": [],
   "targetBuff": [],
   "hitEffect": "",
-  "skillId": [
-    2340000041
-  ],
+  "skillId": [],
   "skillIdP": [],
   "wearSkill": [],
   "spawnBullet": [],

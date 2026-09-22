@@ -20,5 +20,6 @@
   "spreadAilment": [],
   "spreadRadius": [],
   "spreadTarget": 0,
-  "spreadEffect": []
+  "spreadEffect": [],
+  "buffWeight": []
 }
