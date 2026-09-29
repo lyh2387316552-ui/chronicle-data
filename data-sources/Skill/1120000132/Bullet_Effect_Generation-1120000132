@@ -1,5 +1,5 @@
 {
-  "__delete": true,
+  "__active": true,
   "ammoId": [],
   "ammoTime": [],
   "ammoPosition": [],
@@ -10,5 +10,6 @@
   "ammoInterval": [],
   "ammoBatch": [],
   "ammoBatchInterval": [],
-  "pluralHitTime": []
+  "pluralHitTime": [],
+  "ammoCountLimit": []
 }

@@ -1,5 +1,6 @@
 {
-  "__delete": true,
+  "__active": true,
+  "isHitAndRun": 1,
   "action1Time": 0,
   "resourceName": "",
   "hasEffect": 0,
@@ -27,5 +28,9 @@
   "effect4Name": "",
   "effect4zOrderType": 0,
   "effects4DelayTime": 0,
-  "effects4Range": 1
+  "effects4Range": 1,
+  "effect1Label": "",
+  "effect2Label": "",
+  "effect3Label": "",
+  "effect4Label": ""
 }
