@@ -3,11 +3,15 @@
   "extraTpye": [
     0
   ],
-  "extraConsume": [],
+  "extraConsume": [
+    "0"
+  ],
   "extraEffect": [
     10146
   ],
-  "extraTime": [],
+  "extraTime": [
+    "1"
+  ],
   "extraConsumeBuff": [
     0
   ],

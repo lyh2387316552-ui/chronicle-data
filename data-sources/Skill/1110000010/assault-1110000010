@@ -1,0 +1,20 @@
+{
+  "__active": true,
+  "isAssault": 0,
+  "assaultMaxAngle": 0,
+  "assaultParam": [],
+  "assaultTarget": 0,
+  "assaultPoint": 0,
+  "assaultPointY": 0,
+  "assaultSpeed": 0,
+  "assaultTime": [],
+  "isFlash": 0,
+  "flashSpeed": 0,
+  "resDisTime": -1,
+  "effectRotation": 0,
+  "chargeStagnation": 0,
+  "suoEnemyRange": [],
+  "suoEnemyDev": [],
+  "suoEnemySpeed": 0,
+  "suoEnemyTime": []
+}

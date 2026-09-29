@@ -8,7 +8,7 @@
   "effectzOrderType": 0,
   "effectsDelayTime": 0,
   "effectsRange": 1,
-  "action2Time": 750,
+  "action2Time": 300,
   "action2Name": "effect8_2",
   "hasEffect2": 0,
   "effect2Name": "",
@@ -28,5 +28,9 @@
   "effect4Name": "",
   "effect4zOrderType": 0,
   "effects4DelayTime": 0,
-  "effects4Range": 1
+  "effects4Range": 1,
+  "effect1Label": "",
+  "effect2Label": "",
+  "effect3Label": "",
+  "effect4Label": ""
 }

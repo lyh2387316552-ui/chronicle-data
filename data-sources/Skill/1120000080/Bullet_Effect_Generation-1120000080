@@ -32,5 +32,8 @@
   ],
   "pluralHitTime": [
     -1
+  ],
+  "ammoCountLimit": [
+    3
   ]
 }

@@ -1,0 +1,10 @@
+{
+  "__active": true,
+  "triggerMode": "1",
+  "triggerValue": [],
+  "triggerValue2": [],
+  "skillAttackMode": [],
+  "gettriggerTargetCon": "shootC.id==1111100030",
+  "gettriggeChance": "1",
+  "triggerFilterType": 0
+}

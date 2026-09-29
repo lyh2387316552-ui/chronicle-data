@@ -3,9 +3,8 @@
   "triggerMode": "1",
   "triggerValue": [],
   "triggerValue2": [],
-  "skillAttackMode": [
-    10
-  ],
+  "skillAttackMode": [],
+  "gettriggerTargetCon": "shootC.normalTag.includes(4)&&shootC.normalTag.includes(1)&&bullet.bulletId!=1141000011&&bullet.bulletId!=1141100011",
   "gettriggeChance": "1",
   "triggerFilterType": 0
 }

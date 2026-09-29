@@ -10,7 +10,7 @@
     0
   ],
   "ammoAngle": [
-    60
+    75
   ],
   "ammoRandom": [
     0
@@ -32,5 +32,8 @@
   ],
   "pluralHitTime": [
     600
+  ],
+  "ammoCountLimit": [
+    0
   ]
 }

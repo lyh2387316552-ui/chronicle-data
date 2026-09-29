@@ -1,0 +1,8 @@
+{
+  "__active": true,
+  "skillMoveType": [],
+  "skillCanMove": 100000,
+  "skillMoveTime": 0,
+  "combatSpeed": 0,
+  "onlyMoveForward": 0
+}

@@ -10,5 +10,6 @@
   "ammoInterval": [],
   "ammoBatch": [],
   "ammoBatchInterval": [],
-  "pluralHitTime": []
+  "pluralHitTime": [],
+  "ammoCountLimit": []
 }

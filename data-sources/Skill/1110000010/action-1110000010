@@ -1,0 +1,21 @@
+{
+  "__active": true,
+  "childSkillTime": [
+    0
+  ],
+  "skillTime0": -1,
+  "attackSpeed": 1.015,
+  "skillConnectionTime": [
+    0
+  ],
+  "skillTime": 399,
+  "interruptSkill": [],
+  "skillInterruption": 0,
+  "isCommonAttack": 0,
+  "attackInterruptsOthers": 0,
+  "skillFreeTurn": 0,
+  "skillContinueMove": 0,
+  "tapSpeedUp": [],
+  "recoveryMove": 0,
+  "exchangeRes": ""
+}

@@ -6,10 +6,14 @@
   "targetBuff": [],
   "hitEffect": "",
   "skillId": [
-    1140000011
+    1140000011,
+    1140000012,
+    1140000013
   ],
   "skillIdP": [
-    1
+    0.3,
+    0.3,
+    0.3
   ],
   "wearSkill": [],
   "spawnBullet": [],

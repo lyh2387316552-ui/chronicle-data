@@ -1,0 +1,13 @@
+{
+  "__active": true,
+  "toughening": 0,
+  "rigidityId": [],
+  "rigidityTimes": 0,
+  "hitEffect": "hit_effect2_4",
+  "rigidityHitEffect": "hit_effect2_4",
+  "hitEffectOffset": [
+    0,
+    0.5
+  ],
+  "deathAnimation": 0
+}

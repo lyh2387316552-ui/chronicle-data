@@ -4,7 +4,6 @@
   "triggerValue": [],
   "triggerValue2": [],
   "skillAttackMode": [],
-  "gettriggerTargetCon": "attacker.weaponType==11001",
   "gettriggeChance": "1",
   "triggerFilterType": 0
 }

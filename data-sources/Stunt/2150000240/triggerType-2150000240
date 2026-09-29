@@ -4,7 +4,7 @@
   "triggerValue": [],
   "triggerValue2": [],
   "skillAttackMode": [],
-  "gettriggerTargetCon": "attacker.weaponType==11002&&(attacker.getBuffStackTimes(2152000240)+attacker.getBuffStackTimes(2152100240)+attacker.getBuffStackTimes(2152200240)+attacker.getBuffStackTimes(2152300240)+attacker.getBuffStackTimes(2152400240))<100",
+  "gettriggerTargetCon": "(attacker.getBuffStackTimes(2152000240)+attacker.getBuffStackTimes(2152100240)+attacker.getBuffStackTimes(2152200240)+attacker.getBuffStackTimes(2152300240)+attacker.getBuffStackTimes(2152400240))<100",
   "gettriggeChance": "1",
   "triggerFilterType": 0
 }

@@ -1,7 +1,7 @@
 {
   "__active": true,
-  "targetConditionType": 2,
-  "steeringSarget": 0,
+  "targetConditionType": 0,
+  "steeringSarget": 1,
   "noTargetNoRelease": 0,
   "skillFreeTurn": 0,
   "skillLockTurn": 0

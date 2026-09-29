@@ -16,13 +16,13 @@
     1
   ],
   "ammoCount": [
-    4
+    1
   ],
   "ammoTrajectory": [
     0
   ],
   "ammoInterval": [
-    300
+    0
   ],
   "ammoBatch": [
     0
@@ -31,6 +31,9 @@
     0
   ],
   "pluralHitTime": [
+    0
+  ],
+  "ammoCountLimit": [
     0
   ]
 }

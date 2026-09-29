@@ -4,6 +4,7 @@
   "triggerValue": [],
   "triggerValue2": [],
   "skillAttackMode": [],
+  "gettriggerTargetCon": "bullet.config.ammoMainTag.includes(1)",
   "gettriggeChance": "1",
   "triggerFilterType": 0
 }
