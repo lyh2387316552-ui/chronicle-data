@@ -1,0 +1,15 @@
+{
+  "__active": true,
+  "aiDistance": [
+    400,
+    400,
+    200,
+    200
+  ],
+  "warningRange": [],
+  "warningRangeZoom": 0.5,
+  "warningDeviationX": [],
+  "warningDeviation": [],
+  "warningEffect": "",
+  "warningCollision": []
+}

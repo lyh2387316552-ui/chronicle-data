@@ -1,0 +1,15 @@
+{
+  "__active": true,
+  "childSkillTrigger": 0,
+  "childSkillId": [],
+  "childSkilAutoRelease": 0,
+  "childSkillByHp": 0,
+  "childSkillNotDel": 0,
+  "childSkillDelBuff": 0,
+  "childSkillDirection": 0,
+  "otherSkillNotEnd": 0,
+  "carryBuff": 0,
+  "generalAttackSkill": 0,
+  "thumpSkill": 0,
+  "subSkillAfterHit": 0
+}

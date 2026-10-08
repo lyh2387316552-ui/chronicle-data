@@ -1,0 +1,8 @@
+{
+  "__active": true,
+  "counterattackTime": [],
+  "counterattackProbability": 0,
+  "hardStraighSkill": 0,
+  "canCounterattack": 0,
+  "steeringCounterattack": 0
+}

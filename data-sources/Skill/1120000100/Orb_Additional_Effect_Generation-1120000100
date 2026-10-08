@@ -1,10 +1,52 @@
 {
   "__active": true,
-  "extraTpye": [],
-  "extraConsume": [],
-  "extraEffect": [],
-  "extraTime": [],
-  "extraConsumeBuff": [],
-  "extraGroupID": [],
-  "extraEffectCD": []
+  "extraTpye": [
+    3,
+    3,
+    3,
+    3,
+    3
+  ],
+  "extraConsume": [
+    "2 * Math.floor(a.ruinImbue / 2)",
+    "2 * Math.floor(a.insightImbue/ 2)",
+    "2 * Math.floor(a.pierceImbue/ 2)",
+    "2 * Math.floor(a.chaosImbue/ 2)",
+    "2 * Math.floor(a.swiftImbue/ 2)"
+  ],
+  "extraEffect": [
+    10282,
+    10282,
+    10282,
+    10282,
+    10282
+  ],
+  "extraTime": [
+    "val/2",
+    "val/2",
+    "val/2",
+    "val/2",
+    "val/2"
+  ],
+  "extraConsumeBuff": [
+    10,
+    10,
+    10,
+    10,
+    200004
+  ],
+  "extraGroupID": [
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "extraEffectCD": [
+    15000,
+    15000,
+    0,
+    0,
+    0
+  ]
 }

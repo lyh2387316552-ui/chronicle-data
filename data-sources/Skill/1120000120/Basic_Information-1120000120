@@ -1,0 +1,21 @@
+{
+  "__active": true,
+  "name": "鬼影横行",
+  "priority": 2,
+  "mainTag": 2,
+  "remarks": "",
+  "skillTime": 849,
+  "desc": "持续生成多个鬼骷髅追踪敌人，在接触敌人时产生爆炸",
+  "detailedDesc": "",
+  "skillIcon": "linshi/14",
+  "normalTag": [
+    1,
+    5,
+    7,
+    8,
+    16
+  ],
+  "attackSpeed": 0.849,
+  "moreDamage": [],
+  "skillLevelAdd": 0
+}

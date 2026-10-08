@@ -1,0 +1,11 @@
+{
+  "__active": true,
+  "polygon": 0,
+  "collisionRangeType": 1,
+  "collisionRangeLeft": 0,
+  "collisionRangeRight": 0,
+  "collisionRangeFront": 0,
+  "collisionRangeBehind": 0,
+  "collisionRangeHeightAbove": 0,
+  "collisionLowerHeight": 0
+}

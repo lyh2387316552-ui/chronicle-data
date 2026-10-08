@@ -3,5 +3,7 @@
   "repeatAmmo": 0,
   "assistStunt": [],
   "mentStateChance": 0,
-  "skillOverlapAvoid": []
+  "skillOverlapAvoid": [
+    1121000100
+  ]
 }

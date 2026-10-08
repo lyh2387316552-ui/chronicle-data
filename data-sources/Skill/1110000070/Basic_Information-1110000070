@@ -1,0 +1,19 @@
+{
+  "__active": true,
+  "name": "裂石崩坠",
+  "priority": 2,
+  "mainTag": 1,
+  "remarks": "",
+  "skillTime": 933,
+  "desc": "",
+  "detailedDesc": "",
+  "skillIcon": "linshi/9",
+  "normalTag": [
+    0,
+    2,
+    7
+  ],
+  "attackSpeed": 0.933,
+  "moreDamage": [],
+  "skillLevelAdd": 0
+}

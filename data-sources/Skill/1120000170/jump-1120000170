@@ -1,0 +1,23 @@
+{
+  "__active": true,
+  "jumpType": 0,
+  "jumpStartTime": 0,
+  "upwardAcceleration": 0,
+  "hangTime": 0,
+  "hitAddHangTime": 0,
+  "hitAddHangTimeNum": 0,
+  "hitAcceleration": 0,
+  "hitAccelerationNum": 0,
+  "airGeneralAttack": 0,
+  "airThump": 0,
+  "airTumble": 0,
+  "airLandingSkill": 0,
+  "landingMotionTime": 0,
+  "landingMotionResourceName": "",
+  "landingRecoveryResourceName": "",
+  "landingRecoveryTime": 0,
+  "skillHangTime": 0,
+  "gravityChange": 0,
+  "isAerialRelease": 0,
+  "groundNotCancel": 1
+}

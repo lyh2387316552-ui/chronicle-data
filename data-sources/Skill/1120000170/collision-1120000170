@@ -1,0 +1,12 @@
+{
+  "__active": true,
+  "releaseType": 0,
+  "collisionType": 1,
+  "beginCollisionTime": 0,
+  "collisionDuration": -1,
+  "collisionInterval": 10000,
+  "collisionMaxNum": 0,
+  "collisionMaxTimes": 0,
+  "exitCollisionTime": -1,
+  "collisionTime": 0
+}

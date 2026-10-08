@@ -13,8 +13,7 @@
     1
   ],
   "skillCurrentCooldownChange": [],
-  "gethpRatio": "5/a.hpMax",
-  "getmpRatio": "2/a.mpMax",
+  "gethpRatio": "0.02",
   "spreadAilment": [],
   "spreadRadius": [],
   "spreadTarget": 0,
