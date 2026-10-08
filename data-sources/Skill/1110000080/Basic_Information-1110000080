@@ -1,0 +1,19 @@
+{
+  "__active": true,
+  "name": "太刀-刀刃之舞",
+  "priority": 1,
+  "mainTag": 1,
+  "remarks": "",
+  "skillTime": 816,
+  "desc": "",
+  "detailedDesc": "",
+  "skillIcon": "",
+  "normalTag": [
+    0,
+    2,
+    15
+  ],
+  "attackSpeed": 0.816,
+  "moreDamage": [],
+  "skillLevelAdd": 0
+}
