@@ -1,18 +1,8 @@
 {
   "__active": true,
-  "gainEnergyCond": [
-    0
-  ],
-  "energyParam": [
-    0
-  ],
-  "energy": [
-    0
-  ],
-  "energyCost": [
-    0
-  ],
-  "energyMax": [
-    0
-  ]
+  "gainEnergyCond": [],
+  "energyParam": [],
+  "energy": [],
+  "energyCost": [],
+  "energyMax": []
 }

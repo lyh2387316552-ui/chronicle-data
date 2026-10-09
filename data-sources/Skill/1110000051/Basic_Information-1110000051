@@ -10,7 +10,8 @@
   "skillIcon": "linshi/8",
   "normalTag": [
     1,
-    2
+    2,
+    7
   ],
   "attackSpeed": 1,
   "moreDamage": [],
