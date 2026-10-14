@@ -28,5 +28,9 @@
   "effect4Name": "",
   "effect4zOrderType": 0,
   "effects4DelayTime": 0,
-  "effects4Range": 1
+  "effects4Range": 1,
+  "effect1Label": "",
+  "effect2Label": "",
+  "effect3Label": "",
+  "effect4Label": ""
 }

@@ -1,10 +1,10 @@
 {
   "__active": true,
-  "sourceBuff": [
+  "sourceBuff": [],
+  "deleteSourceBuff": 1,
+  "wearBuff": [
     2152000260
   ],
-  "deleteSourceBuff": 1,
-  "wearBuff": [],
   "targetBuff": [],
   "hitEffect": "",
   "skillId": [],

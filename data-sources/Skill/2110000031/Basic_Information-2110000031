@@ -8,7 +8,10 @@
   "desc": "激活时，非捷技能攻击击中一名冰冻敌人并击杀时会产生冰霜爆炸，对周围的敌人造成攻击伤害。",
   "detailedDesc": "",
   "skillIcon": "linshi/7",
-  "normalTag": [],
+  "normalTag": [
+    4,
+    7
+  ],
   "attackSpeed": 0,
   "moreDamage": [],
   "skillLevelAdd": 0
