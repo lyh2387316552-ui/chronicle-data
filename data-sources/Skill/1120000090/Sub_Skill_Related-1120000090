@@ -11,5 +11,6 @@
   "childSkillNotDel": 0,
   "childSkillDelBuff": 0,
   "childSkillDirection": 0,
-  "subSkillAfterHit": 0
+  "subSkillAfterHit": 0,
+  "subSkillTriggerCount": []
 }

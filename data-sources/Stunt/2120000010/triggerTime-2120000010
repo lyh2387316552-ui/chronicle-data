@@ -3,5 +3,6 @@
   "triggerTimeDelay": 0,
   "startCd": 0,
   "cd": 10000,
-  "cd2": 10000
+  "cd2": 10000,
+  "targetCd": 0
 }

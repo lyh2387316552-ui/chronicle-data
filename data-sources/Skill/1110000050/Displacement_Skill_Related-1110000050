@@ -1,5 +1,5 @@
 {
-  "__active": true,
+  "__delete": true,
   "isAssault": 0,
   "assaultMaxAngle": 0,
   "assaultParam": [],
@@ -12,7 +12,5 @@
   "resDisTime": -1,
   "effectMigration": [],
   "effectRotation": 0,
-  "chargeStagnation": 0,
-  "onlyMoveForward": 0,
   "assaultSpeed": 0
 }

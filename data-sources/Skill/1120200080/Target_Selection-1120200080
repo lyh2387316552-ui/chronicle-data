@@ -1,0 +1,8 @@
+{
+  "__active": true,
+  "targetConditionType": 0,
+  "steeringSarget": 1,
+  "noTargetNoRelease": 1,
+  "skillFreeTurn": 0,
+  "skillLockTurn": 0
+}

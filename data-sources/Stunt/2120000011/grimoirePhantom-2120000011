@@ -2,7 +2,7 @@
   "__active": true,
   "phantomCount": 1,
   "phantomPosition": 0,
-  "phantomLimit": 1,
+  "phantomLimit": 3,
   "phantomDamageModifier": 1,
   "phantomCastSpeedModifier": 1,
   "phantomCooldown": 1,

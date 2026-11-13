@@ -1,16 +1,16 @@
 {
   "__active": true,
   "ammoId": [
-    1121200100
+    1121300100
   ],
   "ammoTime": [
     0
   ],
   "ammoPosition": [
-    3
+    1
   ],
   "ammoAngle": [
-    360
+    0
   ],
   "ammoRandom": [
     0
@@ -31,6 +31,9 @@
     0
   ],
   "pluralHitTime": [
+    0
+  ],
+  "ammoCountLimit": [
     0
   ]
 }

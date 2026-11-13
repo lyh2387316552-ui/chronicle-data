@@ -20,5 +20,8 @@
   ],
   "extraEffectCD": [
     0
+  ],
+  "extraConsumeRandomBuff": [
+    ""
   ]
 }

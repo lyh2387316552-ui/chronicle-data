@@ -1,0 +1,27 @@
+{
+  "__active": true,
+  "extraTpye": [
+    3
+  ],
+  "extraConsume": [
+    "2 * Math.floor(a.ruinImbue / 2)"
+  ],
+  "extraEffect": [
+    10113
+  ],
+  "extraTime": [
+    "val/2"
+  ],
+  "extraConsumeBuff": [
+    200000
+  ],
+  "extraGroupID": [
+    1
+  ],
+  "extraEffectCD": [
+    0
+  ],
+  "extraConsumeRandomBuff": [
+    ""
+  ]
+}

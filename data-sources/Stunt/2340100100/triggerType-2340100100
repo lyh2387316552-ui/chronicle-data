@@ -1,0 +1,12 @@
+{
+  "__active": true,
+  "triggerMode": "127",
+  "triggerValue": [
+    "2"
+  ],
+  "triggerValue2": [],
+  "skillAttackMode": [],
+  "gettriggerTargetCon": "bullet.bulletId!=2341000100",
+  "gettriggeChance": "1",
+  "triggerFilterType": 0
+}

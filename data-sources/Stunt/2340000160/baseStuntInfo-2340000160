@@ -1,0 +1,11 @@
+{
+  "__active": true,
+  "level": 1,
+  "group": 0,
+  "name": "装备-迅捷注能大于X层，旋风技能cd为零",
+  "text": "装备-迅捷注能大于X层，旋风技能cd为零",
+  "skillIcon": "",
+  "bundlingStunts": [],
+  "normalTag": [],
+  "skillLevelAdd": 0
+}

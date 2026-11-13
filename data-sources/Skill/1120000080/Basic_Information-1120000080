@@ -4,8 +4,8 @@
   "priority": 1,
   "mainTag": 2,
   "remarks": "",
-  "skillTime": 1000,
-  "desc": "扔出1枚火球，碰到敌人时产生爆炸。\n火球的数量无法修改\n爆炸时尽量消耗一层毁灭注能，产生更大的爆炸，在爆炸位置生成火焰地面，并在爆炸时产生8发小型火球",
+  "skillTime": 1282,
+  "desc": "扔出1枚火球，碰到敌人时产生爆炸。\n尽量消耗一层毁灭注能，产生更大的爆炸，在爆炸位置生成火焰地面\n尽量消耗一层迅捷注能，使火球爆炸时产生8发小型火球",
   "detailedDesc": "",
   "skillIcon": "linshi/25",
   "normalTag": [
@@ -16,7 +16,7 @@
     15,
     17
   ],
-  "attackSpeed": 1,
+  "attackSpeed": 1.282,
   "moreDamage": [],
   "skillLevelAdd": 0
 }

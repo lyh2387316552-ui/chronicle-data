@@ -1,12 +1,15 @@
 {
   "__active": true,
-  "isAssault": 0,
+  "isAssault": 27,
   "assaultMaxAngle": 0,
   "assaultParam": [],
   "assaultTarget": 0,
-  "assaultPoint": 0,
+  "assaultPoint": 100,
   "assaultPointY": 0,
-  "assaultTime": [],
+  "assaultTime": [
+    0,
+    616
+  ],
   "isFlash": 0,
   "flashSpeed": 0,
   "resDisTime": -1,
@@ -14,5 +17,11 @@
   "effectRotation": 0,
   "chargeStagnation": 0,
   "onlyMoveForward": 0,
-  "assaultSpeed": 0
+  "assaultSpeed": 800,
+  "assaultTargetRange": [
+    300,
+    300,
+    300,
+    300
+  ]
 }

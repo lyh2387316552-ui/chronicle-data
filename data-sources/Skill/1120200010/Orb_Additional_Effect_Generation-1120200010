@@ -1,0 +1,27 @@
+{
+  "__active": true,
+  "extraTpye": [
+    3
+  ],
+  "extraConsume": [
+    "2 * Math.floor((Math.min((a.ruinImbue+a.insightImbue+a.pierceImbue+a.chaosImbue+a.swiftImbue),(3+a.ruinImbueLimit)))/2)"
+  ],
+  "extraEffect": [
+    10113
+  ],
+  "extraTime": [
+    "val/2"
+  ],
+  "extraConsumeBuff": [
+    200000
+  ],
+  "extraGroupID": [
+    1
+  ],
+  "extraEffectCD": [
+    0
+  ],
+  "extraConsumeRandomBuff": [
+    "200000-200001-200002-200003-200004"
+  ]
+}

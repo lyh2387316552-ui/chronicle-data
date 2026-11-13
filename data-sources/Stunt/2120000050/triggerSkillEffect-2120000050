@@ -5,15 +5,15 @@
   "wearBuff": [],
   "targetBuff": [],
   "hitEffect": "",
-  "skillId": [],
-  "skillIdP": [],
-  "wearSkill": [],
-  "spawnBullet": [
-    1121300100
+  "skillId": [
+    1120000101
   ],
-  "buffLayer": [
+  "skillIdP": [
     1
   ],
+  "wearSkill": [],
+  "spawnBullet": [],
+  "buffLayer": [],
   "skillCurrentCooldownChange": [],
   "spreadAilment": [],
   "spreadRadius": [],

@@ -1,10 +1,23 @@
 {
   "__active": true,
-  "extraTpye": [],
+  "extraTpye": [
+    0
+  ],
   "extraConsume": [],
-  "extraEffect": [],
+  "extraEffect": [
+    0
+  ],
   "extraTime": [],
-  "extraConsumeBuff": [],
-  "extraGroupID": [],
-  "extraEffectCD": []
+  "extraConsumeBuff": [
+    0
+  ],
+  "extraGroupID": [
+    0
+  ],
+  "extraEffectCD": [
+    0
+  ],
+  "extraConsumeRandomBuff": [
+    ""
+  ]
 }

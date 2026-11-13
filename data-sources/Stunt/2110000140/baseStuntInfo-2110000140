@@ -1,0 +1,17 @@
+{
+  "__active": true,
+  "level": 1,
+  "group": 0,
+  "name": "怒火踏步",
+  "text": "每次移动时在脚下生成一片怒火震荡，造成物理伤害和火焰伤害",
+  "skillIcon": "",
+  "bundlingStunts": [],
+  "mainTag": 1,
+  "normalTag": [
+    1,
+    2,
+    3,
+    18
+  ],
+  "skillLevelAdd": 0
+}

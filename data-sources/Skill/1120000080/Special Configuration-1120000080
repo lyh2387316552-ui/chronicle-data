@@ -1,7 +1,9 @@
 {
   "__active": true,
   "repeatAmmo": 0,
-  "assistStunt": [],
+  "assistStunt": [
+    2120000110
+  ],
   "mentStateChance": 0,
   "skillOverlapAvoid": []
 }

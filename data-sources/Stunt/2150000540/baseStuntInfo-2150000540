@@ -1,0 +1,11 @@
+{
+  "__active": true,
+  "level": 1,
+  "group": 0,
+  "name": "天赋-物理额外",
+  "text": "释放物理技能获得 20% 额外物理伤害，但只能造成物理伤害，持续 4 秒",
+  "skillIcon": "",
+  "bundlingStunts": [],
+  "normalTag": [],
+  "skillLevelAdd": 0
+}

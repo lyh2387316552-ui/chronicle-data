@@ -1,0 +1,13 @@
+{
+  "__active": true,
+  "level": 1,
+  "group": 2340000150,
+  "name": "装备-奇迹法衣",
+  "text": "",
+  "skillIcon": "",
+  "bundlingStunts": [
+    2340100150
+  ],
+  "normalTag": [],
+  "skillLevelAdd": 0
+}

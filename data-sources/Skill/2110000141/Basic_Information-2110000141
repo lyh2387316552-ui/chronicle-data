@@ -1,0 +1,26 @@
+{
+  "__active": true,
+  "name": "怒火踏步",
+  "priority": 1,
+  "mainTag": 1,
+  "remarks": "",
+  "skillTime": 0,
+  "desc": "",
+  "detailedDesc": "",
+  "skillIcon": "",
+  "normalTag": [
+    1,
+    2,
+    3,
+    18
+  ],
+  "attackSpeed": 1,
+  "moreDamage": [
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "skillLevelAdd": 0
+}

@@ -1,0 +1,39 @@
+{
+  "__active": true,
+  "ammoId": [
+    1121000080
+  ],
+  "ammoTime": [
+    516
+  ],
+  "ammoPosition": [
+    0
+  ],
+  "ammoAngle": [
+    30
+  ],
+  "ammoRandom": [
+    0
+  ],
+  "ammoCount": [
+    1
+  ],
+  "ammoTrajectory": [
+    0
+  ],
+  "ammoInterval": [
+    0
+  ],
+  "ammoBatch": [
+    1
+  ],
+  "ammoBatchInterval": [
+    0
+  ],
+  "pluralHitTime": [
+    -1
+  ],
+  "ammoCountLimit": [
+    3
+  ]
+}

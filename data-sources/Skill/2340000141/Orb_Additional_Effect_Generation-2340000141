@@ -1,0 +1,59 @@
+{
+  "__active": true,
+  "extraTpye": [
+    3,
+    3,
+    3,
+    3,
+    3
+  ],
+  "extraConsume": [
+    "-1",
+    "-1",
+    "-1",
+    "-1",
+    "-1"
+  ],
+  "extraEffect": [
+    10308,
+    10309,
+    10310,
+    10311,
+    10312
+  ],
+  "extraTime": [
+    "val",
+    "val",
+    "val",
+    "val",
+    "val"
+  ],
+  "extraConsumeBuff": [
+    200001,
+    200000,
+    200002,
+    200004,
+    200003
+  ],
+  "extraGroupID": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "extraEffectCD": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "extraConsumeRandomBuff": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

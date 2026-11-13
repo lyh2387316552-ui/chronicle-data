@@ -1,6 +1,6 @@
 {
   "__active": true,
-  "name": "月光斩",
+  "name": "月光斩一段",
   "priority": 1,
   "mainTag": 1,
   "remarks": "",
@@ -15,7 +15,7 @@
     7,
     10
   ],
-  "attackSpeed": 1.015,
+  "attackSpeed": 0.5,
   "moreDamage": [],
   "skillLevelAdd": 0
 }

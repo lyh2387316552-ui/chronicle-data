@@ -10,7 +10,8 @@
   "skillIcon": "",
   "normalTag": [
     4,
-    7
+    7,
+    12
   ],
   "attackSpeed": 0.8,
   "moreDamage": [],

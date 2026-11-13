@@ -14,5 +14,6 @@
   "effectRotation": 0,
   "chargeStagnation": 0,
   "onlyMoveForward": 0,
-  "assaultSpeed": 0
+  "assaultSpeed": 0,
+  "assaultTargetRange": []
 }

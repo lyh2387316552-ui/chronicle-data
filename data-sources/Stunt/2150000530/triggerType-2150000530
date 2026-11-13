@@ -1,0 +1,10 @@
+{
+  "__active": true,
+  "triggerMode": "11",
+  "triggerValue": [],
+  "triggerValue2": [],
+  "skillAttackMode": [],
+  "gettriggerTargetCon": "o.skill.getSkillPos()==0",
+  "gettriggeChance": "0.25",
+  "triggerFilterType": 0
+}

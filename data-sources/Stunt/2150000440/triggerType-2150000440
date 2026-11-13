@@ -5,6 +5,6 @@
   "triggerValue2": [],
   "skillAttackMode": [],
   "gettriggerTargetCon": "shootC.mainTag==1",
-  "gettriggeChance": "0.1",
+  "gettriggeChance": "0.5",
   "triggerFilterType": 0
 }

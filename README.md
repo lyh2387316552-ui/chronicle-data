@@ -43,8 +43,9 @@ chronicle-data/
 
 ## 道具表导出规则
 
-`data-sources/道具表.xlsx`、`icon/item/` 与 `icon/zhuangbei/` 由网站仓库的 `tools/一键同步.bat`（`tools/copy-data.js`）从本地策划目录导出，导出时已按编年史展示规则裁剪：
+`data-sources/道具表.xlsx`、`icon/item/`、`icon/zhuangbei/` 与 `icon/baoshi/` 由网站仓库的 `tools/一键同步.bat`（`tools/copy-data.js`）从本地策划目录导出，导出时已按编年史展示规则裁剪：
 
-- **道具表**：保留两类行——(1) `uesless != 1` 且 `itemType`（道具类型）为 `1`/`2`/`3` 的普通道具行；(2) `itemType = 4` 的普通装备行（其 `uesless` 为 `1`，仅供「普通装备」卡片按 `equip.id` 关联取图标，道具页展示时仍按 `itemType 1/2/3` 过滤，不会显示装备）。其余行不写入；源表头行（中文名/英文字段/类型）保持原样。
+- **道具表**：保留三类行——(1) `uesless != 1` 且 `itemType`（道具类型）为 `1`/`2`/`3` 的普通道具行；(2) `itemType = 4` 的普通装备行（其 `uesless` 为 `1`，仅供「普通装备」卡片按 `equip.id` 关联取图标，道具页展示时仍按 `itemType 1/2/3` 过滤，不会显示装备）；(3) `itemType = 7` 的辅助技能宝石行（仅供「辅助宝石」按宝石 ID 关联取图标，道具页同样不显示）。其余行不写入；源表头行（中文名/英文字段/类型）保持原样。
 - **道具图标**：`icon/item/` 仅保留被上述普通道具行 `icon` 字段（`item/...` 路径）引用到的图标，未被引用的图标会被清理。
 - **装备图标**：`icon/zhuangbei/` 仅保留被装备道具行（`itemType` 为 `4`/`5`）的 `icon`/`spIcon` 字段（`zhuangbei/...` 路径）引用到的图标，未被引用的图标会被清理。
+- **宝石图标**：`icon/baoshi/` 仅保留被宝石道具行（`itemType = 7`）的 `icon` 字段（`baoshi/...` 路径）引用到的图标，未被引用的图标会被清理。

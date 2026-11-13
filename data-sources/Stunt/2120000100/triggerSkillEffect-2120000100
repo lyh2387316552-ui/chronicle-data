@@ -1,5 +1,5 @@
 {
-  "__delete": true,
+  "__active": true,
   "sourceBuff": [],
   "deleteSourceBuff": 1,
   "wearBuff": [],
@@ -13,6 +13,7 @@
   "skillCurrentCooldownChange": [],
   "spreadAilment": [],
   "spreadRadius": [],
+  "spreadTarget": 0,
   "spreadEffect": [],
   "buffWeight": []
 }

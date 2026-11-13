@@ -3,13 +3,12 @@
   "level": 1,
   "group": 2120000050,
   "name": "我即闪电",
-  "text": "占位技能",
+  "text": "消耗一层穿透注能，可以使闪电在击中时生成一次闪电震荡\n每隔5秒消耗一层混乱注能，生成一片感电地面",
   "skillIcon": "",
   "bundlingStunts": [],
   "mainTag": 2,
   "normalTag": [
-    5,
-    17
+    5
   ],
   "skillLevelAdd": 0
 }

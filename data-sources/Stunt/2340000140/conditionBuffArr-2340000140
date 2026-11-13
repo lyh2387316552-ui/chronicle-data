@@ -1,0 +1,12 @@
+{
+  "__active": true,
+  "conditionBuffArr": [
+    "(a.buffIdBuffs[2342000140]&&a.buffIdBuffs[2342000140].length)?2342050140:0"
+  ],
+  "conditionObjectArr": [
+    0
+  ],
+  "conditionBuffNumArr": [
+    0
+  ]
+}

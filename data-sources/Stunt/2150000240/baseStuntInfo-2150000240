@@ -5,7 +5,10 @@
   "name": "天赋大点-随机伤害倍率",
   "text": "击败敌人获得随机 0.1 伤害倍率，上限 100 层，持续时间 5 秒",
   "skillIcon": "",
-  "bundlingStunts": [],
+  "bundlingStunts": [
+    2150100240,
+    2150200240
+  ],
   "normalTag": [],
   "skillLevelAdd": 0
 }

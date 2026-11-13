@@ -1,0 +1,24 @@
+{
+  "__active": true,
+  "name": "闪电敕令",
+  "priority": 1,
+  "mainTag": 2,
+  "remarks": "",
+  "skillTime": 0,
+  "desc": "",
+  "detailedDesc": "",
+  "skillIcon": "",
+  "normalTag": [
+    5,
+    7
+  ],
+  "attackSpeed": 1,
+  "moreDamage": [
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "skillLevelAdd": 0
+}

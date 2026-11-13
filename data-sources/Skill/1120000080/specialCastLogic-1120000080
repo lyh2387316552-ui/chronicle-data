@@ -4,5 +4,6 @@
   "energyParam": [],
   "energy": [],
   "energyCost": [],
-  "energyMax": []
+  "energyMax": [],
+  "energyCd": []
 }

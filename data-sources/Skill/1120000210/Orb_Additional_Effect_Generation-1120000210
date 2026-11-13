@@ -6,5 +6,6 @@
   "extraTime": [],
   "extraConsumeBuff": [],
   "extraGroupID": [],
-  "extraEffectCD": []
+  "extraEffectCD": [],
+  "extraConsumeRandomBuff": []
 }

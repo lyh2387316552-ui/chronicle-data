@@ -1,14 +1,8 @@
 {
   "__active": true,
   "carryBuff": 0,
-  "recourceType": [
-    1
-  ],
-  "recourceConsume": [
-    100
-  ],
-  "recourceGet": [
-    1
-  ],
+  "recourceType": [],
+  "recourceConsume": [],
+  "recourceGet": [],
   "resourceConsumeMultiply": 0
 }
